@@ -1,0 +1,17 @@
+.CastList {
+    list-style: none;
+}
+
+.CastItem {
+    margin: 10px 0 16px;
+    padding: 2px 8px;
+    /* box-shadow: 1px 2px 4px 3px rgba(0, 0, 0, 0.5); */
+}
+
+.Name {
+    margin: 8px 0;
+}
+
+.Character {
+    margin: 0;
+}

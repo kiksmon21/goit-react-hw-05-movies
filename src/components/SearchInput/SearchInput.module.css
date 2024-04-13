@@ -1,0 +1,14 @@
+.Input {
+    display: inline-block;
+    width: 100%;
+    font: inherit;
+    font-size: 16px;
+    /* border: none; */
+    /* outline: none; */
+    padding: 3px;
+}
+
+.Input::placeholder {
+    font: inherit;
+    font-size: 16px;
+  }
